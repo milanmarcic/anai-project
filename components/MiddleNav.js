@@ -26,31 +26,31 @@ export default function MiddleNav() {
             </div>
 
 
-        <div class="container grid grid-cols-3 mx-auto gap-0 px-20 space-x-0">
+        <div className="container grid grid-cols-3 mx-auto gap-0 px-20 space-x-0">
             
-            <div class="w-full rounded">
+            <div className="w-full rounded">
                 <img src="./saloon1.png"/>
             </div>
 
             
 
-            <div class="w-full rounded">
+            <div className="w-full rounded">
             <img src="./eye1.png"/>
             </div>
 
-            <div class="w-full rounded">
+            <div className="w-full rounded">
             <img src="./saloon1.png"/>
             </div>
 
-            <div class="w-full rounded">
+            <div className="w-full rounded">
             <img src="./face1.png"/>
             </div>
 
-            <div class="w-full rounded">
+            <div className="w-full rounded">
             <img src="./massage1.png"/>
             </div>
 
-            <div class="w-full rounded">
+            <div className="w-full rounded">
             <img src="./saloon1.png"/>
             </div>
 
