@@ -1,8 +1,9 @@
 import Head from 'next/head';
 import React from 'react'
 import Header from '../components/Header';
-import AboutUs from '../components/AboutUs';
+import CookiePolicy from '../components/CookiePolicy';
 import Footer from '../components/Footer';
+import ScrollToTop from '../components/ScrollToTop';
 
 export default function ONamaPage() {
   return (
@@ -14,8 +15,8 @@ export default function ONamaPage() {
       <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap" rel="stylesheet"/> 
     </Head>
     <Header />
-    <AboutUs />
-    
+    <CookiePolicy />
+    <ScrollToTop />
     <Footer/>
     </div>
   );

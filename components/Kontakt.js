@@ -33,7 +33,7 @@ export default function Kontakt() {
               <textarea  {...register("message", { required: true })} type="text" className="w-full bg-white rounded border border-gray-400 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
               {errors.message?.type === 'required' && "Molimo unesite poruku"}
             </div>
-            <button type="submit" className="bg-red-500 w-1/3 text-white px-6 py-2 font-medium  hover:bg-red-600 transition duration-200 each-in-out">POŠALJI</button>
+            <button type="submit" className="bg-red-500 rounded w-1/3 text-white px-6 py-2 font-medium  hover:bg-red-600 transition duration-200 each-in-out">POŠALJI</button>
 
           </div>
         </div>

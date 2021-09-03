@@ -8,7 +8,7 @@ export default function Blog () {
       <img src="./skincare.jpg" className="absolute left-0 top-0 w-full h-full z-0 object-cover" />
       <div className="p-4 absolute bottom-0 left-0 z-20">
         <a href="#"
-          className="px-4 py-1 bg-red-500 hover:bg-red-600 text-gray-200 inline-flex items-center justify-center mb-2">Zdravlje</a>
+          className="px-4 py-1 bg-red-500 rounded hover:bg-red-600 text-gray-200 inline-flex items-center justify-center mb-2">Zdravlje</a>
         <h2 className="text-4xl font-semibold text-gray-100 leading-tight">
           Ljetni savjeti za njegu kože.
         </h2>

@@ -26,36 +26,84 @@ export default function MiddleNav() {
             </div>
 
 
-        <div className="container grid grid-cols-3 mx-auto gap-0 px-20 space-x-0">
-            
-            <div className="w-full rounded">
-                <img src="./saloon1.png"/>
-            </div>
+            <section className="container mx-auto p-10 md:py-20 px-0 md:p-20 md:px-0 antialiased">
+        <section className="grid lg:grid-cols-3 2xl:grid-cols-3 grid-cols-1 gap-40 ">
+        <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group font-sans-caption"  style={{ backgroundImage: "url('./massage1.png')" }}>
+                <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            
+            <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./massage1.png')" }}>
+            <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            <div className="w-full rounded">
-            <img src="./eye1.png"/>
-            </div>
+            <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./saloon1.png')" }}>
+            <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            <div className="w-full rounded">
-            <img src="./saloon1.png"/>
-            </div>
+            <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./eye1.png" }}>
+            <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            <div className="w-full rounded">
-            <img src="./face1.png"/>
-            </div>
+            <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./saloon1.png')" }}>
+            <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            <div className="w-full rounded">
-            <img src="./massage1.png"/>
-            </div>
+            <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./face1.png')" }}>
+            <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
+                    <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
+                    Ekstentije trepavica
+                    </h1>
+                    <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
+                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    </p>
+                </div>
+            </article>
 
-            <div className="w-full rounded">
-            <img src="./saloon1.png"/>
-            </div>
 
-
-        </div>
+        </section>
+        
+    </section>
 
             
 

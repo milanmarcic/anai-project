@@ -9,7 +9,7 @@ export default function Banner({ ...props }) {
         </div>
 
         <div className="mt-3 md:mt-0 md:ml-2 pr-20">
-          <button className="bg-red-500 text-white px-6 py-2 font-medium mx-3 hover:bg-red-600 transition duration-200 each-in-out"
+          <button className="bg-red-500 text-white px-6 py-2 font-medium mx-3 rounded hover:bg-red-600 transition duration-200 each-in-out"
             onClick={() => {
               window.open("http://google.com", "Popup")
             }}>

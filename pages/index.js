@@ -10,6 +10,8 @@ import Card from '../components/Card';
 import Testemonial from '../components/Testemonial';
 import MiddleNav from '../components/MiddleNav';
 import Brands from '../components/Brands';
+import Cookie from '../components/Cookie';
+import ScrollToTop from '../components/ScrollToTop';
 
 export default function Home() {
 
@@ -32,6 +34,8 @@ export default function Home() {
       <Banner text="Ugodite si i posvetite dan uljepšavanju i brizi za svoje tijelo." buttonText="NARUČI SE"/>
       <ContactForm/>
       <Footer/>
+      <Cookie/>
+      <ScrollToTop/>
     </div>
 
   );

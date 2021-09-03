@@ -58,7 +58,7 @@ export default function Footer() {
             {errors.message?.type === 'required' && "Unesite poruku"}
           </div>
           <div className="flex items-center ">
-            <button type="submit" className="bg-red-500 text-white px-6 py-2 font-medium  hover:bg-red-600 transition duration-200 each-in-out"
+            <button type="submit" className="bg-red-500 text-white rounded px-6 py-2 font-medium  hover:bg-red-600 transition duration-200 each-in-out"
             >
               POŠALJI
             </button>
