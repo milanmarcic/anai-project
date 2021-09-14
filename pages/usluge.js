@@ -3,6 +3,7 @@ import React from 'react'
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Card from '../components/Card';
+import Cookie from '../components/Cookie';
 
 
 export default function UslugePage() {
@@ -16,6 +17,7 @@ export default function UslugePage() {
     </Head>
     <Header />
     <Card/>
+    <Cookie/>
     <Footer/>
     </div>
   );

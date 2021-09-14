@@ -3,6 +3,7 @@ import React from 'react'
 import Footer from '../components/Footer';
 import Gallery from '../components/Gallery';
 import Header from '../components/Header';
+import Cookie from '../components/Cookie';
 
 
 
@@ -17,7 +18,7 @@ export default function GalerijaPage() {
     </Head>
     <Header />
     <Gallery/>
-    
+    <Cookie/>
     <Footer/>
     </div>
   );

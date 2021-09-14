@@ -3,6 +3,7 @@ import React from 'react'
 import Header from '../components/Header';
 import Kontakt from '../components/Kontakt';
 import Footer from '../components/Footer';
+import Cookie from '../components/Cookie';
 
 export default function KontaktPage() {
   return (
@@ -15,6 +16,7 @@ export default function KontaktPage() {
     </Head>
     <Header />
    <Kontakt/>
+   <Cookie/>
    <Footer/>
     </div>
   );

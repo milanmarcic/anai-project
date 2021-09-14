@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import Blog from '../components/Blog';
 import Header from '../components/Header';
 import ScrollToTop from '../components/ScrollToTop';
+import Cookie from '../components/Cookie';
 
 
 export default function BlogPage() {
@@ -18,7 +19,7 @@ export default function BlogPage() {
     <Header />
     <Blog/>
     <ScrollToTop/>
-    
+    <Cookie/>
     <Footer/>
     </div>
   );

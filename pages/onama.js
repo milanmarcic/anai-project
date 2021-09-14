@@ -3,6 +3,7 @@ import React from 'react'
 import Header from '../components/Header';
 import AboutUs from '../components/AboutUs';
 import Footer from '../components/Footer';
+import Cookie from '../components/Cookie';
 
 export default function ONamaPage() {
   return (
@@ -15,7 +16,7 @@ export default function ONamaPage() {
     </Head>
     <Header />
     <AboutUs />
-    
+    <Cookie/>
     <Footer/>
     </div>
   );

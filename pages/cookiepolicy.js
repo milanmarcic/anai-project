@@ -17,6 +17,7 @@ export default function ONamaPage() {
     <Header />
     <CookiePolicy />
     <ScrollToTop />
+    
     <Footer/>
     </div>
   );

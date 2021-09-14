@@ -7,7 +7,7 @@ export default function Cookie (){
 
   return (
     <CookieConsent
-    debug={true}
+    debug={false}
     location="bottom"
     buttonText="Prihvati kolačiće"
     cookieName="myAwesomeCookieName2"

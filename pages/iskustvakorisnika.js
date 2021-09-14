@@ -3,6 +3,7 @@ import React from 'react'
 import Header from '../components/Header';
 import Testemonial from '../components/Testemonial';
 import Footer from '../components/Footer';
+import Cookie from '../components/Cookie';
 
 export default function IskustvaKorisnikaPage() {
   return (
@@ -15,7 +16,7 @@ export default function IskustvaKorisnikaPage() {
     </Head>
     <Header />
     <Testemonial />
-    
+    <Cookie/>
     <Footer/>
     </div>
   );
