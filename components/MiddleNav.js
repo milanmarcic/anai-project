@@ -35,7 +35,7 @@ export default function MiddleNav() {
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
@@ -43,11 +43,11 @@ export default function MiddleNav() {
             <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./massage1.png')" }}>
             <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
                     <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
-                    Ekstentije trepavica
+                    Mikropigmentacija
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
@@ -55,11 +55,11 @@ export default function MiddleNav() {
             <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./saloon1.png')" }}>
             <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
                     <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
-                    Ekstentije trepavica
+                    Tretmani lica
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
@@ -67,11 +67,11 @@ export default function MiddleNav() {
             <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./eye1.png" }}>
             <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
                     <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
-                    Ekstentije trepavica
+                    Njega noktiju
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
@@ -79,11 +79,11 @@ export default function MiddleNav() {
             <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./saloon1.png')" }}>
             <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
                     <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
-                    Ekstentije trepavica
+                    Masaže
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
@@ -91,11 +91,11 @@ export default function MiddleNav() {
             <article className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"  style={{ backgroundImage: "url('./face1.png')" }}>
             <div className="bg-black bg-opacity-20 min-h-150 px-10 flex flex-wrap flex-col pt-96 hover:bg-opacity-75 transform duration-300">
                     <h1 className="text-white text-2xl mb-20 transform translate-y-20 group-hover:translate-y-0 duration-300 font-sans-caption">
-                    Ekstentije trepavica
+                    Depilacije
                     </h1>
                     <p className="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, beatae!
-                        <button className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 border border-gray-600 rounded">Pročitaj više</button>
+                    <button className="mt-12 mb-4 w-full text-center bg-red-500 hover:bg-red-600 py-2 rounded">Pročitaj više</button>
                     </p>
                 </div>
             </article>
